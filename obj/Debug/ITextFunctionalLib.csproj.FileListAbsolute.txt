@@ -1,0 +1,9 @@
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\bin\Debug\ITextFunctionalLib.dll
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\bin\Debug\ITextFunctionalLib.pdb
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\bin\Debug\itextsharp.dll
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\bin\Debug\itextsharp.xml
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\obj\Debug\ITextFunctionalLib.csprojResolveAssemblyReference.cache
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\obj\Debug\ITextFunctionalLib.csproj.CoreCompileInputs.cache
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\obj\Debug\ITextFunctionalLib.csproj.CopyComplete
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\obj\Debug\ITextFunctionalLib.dll
+D:\perfurador\ALM\Desenvolvimento\ITextFunctionalLib\ITextFunctionalLib\obj\Debug\ITextFunctionalLib.pdb
