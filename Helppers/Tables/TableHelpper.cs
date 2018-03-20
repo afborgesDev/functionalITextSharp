@@ -40,7 +40,7 @@ namespace ITextFunctionalLib.Helppers.Tables
 
         public static PdfPTable AddTextWhenFormated(this PdfPTable @this, Content content, bool condition, string textTrue, string textFalse, params object[] args)
         {
-            content.Text = condition ? string.Format(textTrue) : string.Format(textFalse);
+            content.Text = condition ? string.Format(textTrue, args) : string.Format(textFalse, args);
             return AddText(@this, content);
         }
 
