@@ -46,7 +46,7 @@ namespace ITextFunctionalLib.Helppers.Tables
 
         public static PdfPTable AddBlankLine(this PdfPTable @this, int numberOfLines = 1)
         {
-            @this.AddCell(new PdfPCell(ParagraphHelpper.NewInBlank(numberOfLines)));
+            @this.AddCell(new PdfPCell(ParagraphHelpper.NewInBlank(numberOfLines)) { Border = 0 });
             return @this;
         }
 
